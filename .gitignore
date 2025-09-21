@@ -15,3 +15,4 @@ venv/
 
 # OS / misc
 .DS_Store
+.python-version
